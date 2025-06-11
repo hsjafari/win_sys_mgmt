@@ -6,8 +6,7 @@ A single‑file proof‑of‑concept that delivers **process management**, **cen
 **policy enforcement**, **live monitoring UI**, and **network‑load simulation** using WMI
 (local) & WinRM (remote).
 
-Author  :  ChatGPT (o3)
-Revision :  2025‑06‑10 (Redesign — cleaner layout, blueprinted UI, polished logging)
+Author  :  hsjafari
 
 ---------------------------------------------------------------------
 Requirements
